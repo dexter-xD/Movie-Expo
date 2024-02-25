@@ -12,6 +12,7 @@ Welcome to Movie Expo, a web application built with ReactJS that allows users to
 ## Demo
 
 Check out the [demo](https://movie-expo.vercel.app/) of the Movie Expo web app.
+Check out the [demo](https://movie-expo.netlify.app/) of the Movie Expo web app.
 
 ## Technologies Used
 
